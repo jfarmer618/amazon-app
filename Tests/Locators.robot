@@ -1,4 +1,5 @@
 *** Settings ***
+Documentation   Selenium locators example
 Library  SeleniumLibrary
 Resource  ../Resources/PO/Common.robot
 
